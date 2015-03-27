@@ -9,5 +9,5 @@ public class Concatenator {
         return one + two;
     }
     public String concatenateWithPlus(String one, String two) { return one+"+"+two; }
-    public int getNumber(){return 1234;}
+    public int getNumber(){return 12345;}
 }
